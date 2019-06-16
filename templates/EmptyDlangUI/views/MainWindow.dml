@@ -1,5 +1,0 @@
-VerticalLayout {
-	TextWidget {
-		text: "Hello World"
-	}
-}
